@@ -3,6 +3,9 @@
 {
     packages = with pkgs;
         [
+
+		#colortheme
+		rose-pine
             # Dependencies
             fd
             git
